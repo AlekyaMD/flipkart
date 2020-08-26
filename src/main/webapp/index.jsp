@@ -8,6 +8,6 @@ String version=resource.getString("version");%>
 
 <html>
 <body>
-<h2>Hi.................!</h2>
+<h2>Hello.................!</h2>
 </body>
 </html>
